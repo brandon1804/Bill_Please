@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="A">Amount</string>
+    <string name="EA">Enter amount</string>
+    <string name="P">Num of Pax</string>
+    <string name="EP">Enter pax</string>
+    <string name="D">Discount(%)</string>
+    <string name="SVS">SVS</string>
+    <string name="GST">GST</string>
+    <string name="ED">Enter discount</string>
+    <string name="TB">Total Bill: $</string>
+    <string name="EPS">Each Pays: $</string>
+    <string name="Split">Split</string>
+    <string name="Reset">Reset</string>
+</resources>
